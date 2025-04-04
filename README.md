@@ -1,6 +1,6 @@
 # Image Editor
 
-*This pure Java Image Editor** is a small image editing application built entirely in Java using Swing. It allows you to upload, edit, and save PNG files with a variety of tools and features. The app also includes support for undo functionality and is designed to be user-friendly and extendable.
+**This pure Java Image Editor** is a small image editing application built entirely in Java using Swing. It allows you to upload, edit, and save PNG files with a variety of tools and features. The app also includes support for undo functionality and is designed to be user-friendly and extendable.
 
 ## 🧩 Features
 
