@@ -1,0 +1,88 @@
+SUMMARY
+=======
+Give your answer after each question and before the dashed lines, which you
+should not remove. Your answers can be multiple lines. THANK YOU!
+
+WHERE CAN WE FIND YOUR WORK ON GITHUB? Give the usernames of all teammates
+and the URL of the repository. [1 point]
+olivovar and NavahniPerry
+https://github.com/Fundies-2-Oakland/project-1-oliviaproject.git
+
+----------------------------------------
+
+DID YOU SUCCESSFULLY IMPLEMENT EVERYTHING THAT WAS REQUESTED? Either answer
+"Yes" or describe what you were and were not able to implement. [1 point]
+Yes
+
+
+
+----------------------------------------
+
+DOES EVERYTHING WORK TO THE BEST OF YOUR KNOWLEDGE, AND DO ALL TESTS PASS?
+If the answer is not "Yes", please state here which parts did not work and
+which tests did not pass. [1 point]
+Yes
+
+----------------------------------------
+
+WHAT WAS THE TOTAL AMOUNT OF TIME YOU SPENT ON THE ASSIGNMENT? Rather than
+giving a range, if you are unsure, give the average of the range. Use hours.
+[1 point]
+16 hours
+
+----------------------------------------
+
+WHO DID YOU WORK WITH AND HOW? Discussing the assignment with people not on
+your team is fine as long as you don't share code. [1 point]
+We worked with Samyutha Srinivisan during her drop in office hours on monday,
+tuesday, and wednesday night to help us debug our project.
+
+----------------------------------------
+
+WHAT RESOURCES DID YOU USE? Please give specific URLs and state which ones
+were particularly helpful. You do not need to cite course materials. [1 point]
+We used ChatGPT inorder to help us better understand the BufferedImage class.
+We also used chat to help us understand how to create files.
+
+----------------------------------------
+
+WHAT DATA STRUCTURES DID YOU CONSIDER, AND HOW DID YOU CHOOSE YOUR FINAL ONE? [3 points]
+We used a 2D array because we had practice using them on a previous homework
+assigment and we're more confident with this data structure. We didn't really
+consider any other structures because we thought a 2D array would make
+the most sense to us, given that an image can easily be represented as it.
+
+----------------------------------------
+
+GIVE ONE OR MORE PARAGRAPHS REFLECTING ON YOUR EXPERIENCE WITH THE
+ASSIGNMENT, including answers to **all** of these questions:
+
+* What was the most difficult part of the assignment?
+* What was the most rewarding part of the assignment?
+* What did you learn doing the assignment?
+* In what ways was this better or worse than a regular homework assignment?
+
+Constructive and actionable suggestions for improving assignments, office hours, and
+lecture are always welcome. If there was a TA or classmate who was especially helpful,
+say so. [6 points]
+
+Some the most difficult part of this assigment was the beginning. Understanding
+how each class works together and Buffered Image class was a struggle for us.
+But once we understood the already given code, it made the rest a lot easier.
+Sorting through the data set was also a challenge at first. The most rewarding part
+of the assignment was having ever function implemented correctly and work as intended.
+Seeing the end result in the GUI felt very rewarding. This assigment taught us
+more about the Buffered Image class, working with colors/pixels, and files. This
+assigment was also good refactoring practice. This project was better than homework assignments
+in the sense that we had to spend more time on it, so we understood the concepts a lot more.
+It was also good because it incorporated a multitude of topics we learned in class,
+while also giving us some control on how we coded our project (like choosing data structures).
+Something that made the project worse is that it took a really long time for us
+to understand the concept of the project before we could start coding it.
+
+
+
+
+
+
+----------------------------------------
